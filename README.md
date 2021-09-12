@@ -1,9 +1,11 @@
 # COMP0158 Project
 This repository provides the source code for analysis conducted in the COMP0158 Project: 
 
-**Modelling the Impact of COVID-19 Crisis on Cities**
+**Title: Modelling the Impact of COVID-19 Crisis on Cities**
 
-It is consist of two type of language: 
+**Candidate Number: LVXP9**
+
+The scripts are written in the following two type of language: 
   1. Python 3
   2. R
 
