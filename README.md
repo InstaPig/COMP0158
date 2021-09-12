@@ -19,5 +19,5 @@ The manipulation and processing of data are complted with both type of scripts.
 The plots and choropleth maps are completed with the python notebook.
 
 ## Modelling
-- The majority of models were built in R.
+- The majority of models were built with R.
 - The Deep Neural Network were implemented using python, Keras.
