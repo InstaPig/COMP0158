@@ -4,4 +4,6 @@ This repository provides the source code for analysis conducted in the COMP0158 
 It is consist of two type of language: 1. Python, 2. R
 
 ## Dataset
-The majority of dataset used in this project could be found in the Dataset folder.
+The majority of dataset used in this project could be found in the Dataset folder, except those files larger than 25MB.
+
+The original OSM historical data are all large files, the data could be download via GEOFABRIK.
