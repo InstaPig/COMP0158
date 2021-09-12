@@ -4,7 +4,7 @@ This repository provides the source code for analysis conducted in the COMP0158 
 **Modelling the Impact of COVID-19 Crisis on Cities**
 
 It is consist of two type of language: 
-  1. Python 
+  1. Python 3
   2. R
 
 ## Dataset
@@ -16,8 +16,9 @@ The original OSM historical data are all large files, the data could be download
 The manipulation and processing of data are complted with both type of scripts.
 
 ## Exploratory Analysis 
-The plots and choropleth maps are completed with the python notebook.
+The plots and choropleth maps are mostly completed with the python notebook.
 
 ## Modelling
 - The majority of models were built with R.
 - The Deep Neural Network were implemented using python, Keras.
+- The spatial regression model has also been tested in the python notebook.
